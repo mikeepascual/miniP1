@@ -141,7 +141,7 @@ ul {
 }
 .section-1 .box .coach {
     height: 270px;
-    background-image: url("/images/gym-coach.jpg");
+    background-image: url("../images/gym-coach.jpg");
     background-size: cover;
     background-position-y: -50px;
 }

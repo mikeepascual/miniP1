@@ -83,6 +83,7 @@ ul {
     justify-content: space-around;
     font-family: 'Poppins', sans-serif;
     background-color: #222727;
+    background-image: url(../images/bg.jpg);
 }
 .section-1 .box-1 {
     width: auto;

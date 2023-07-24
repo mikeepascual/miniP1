@@ -81,6 +81,7 @@ section {
     background-repeat: no-repeat;
     background-position-y: -220px;
     background-color: #222727;
+    background-image: url(../images/group.jpg);
 }
 section div {
     display: flex;
