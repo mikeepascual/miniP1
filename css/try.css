@@ -114,6 +114,8 @@ ul {
     display: flex;
     flex-direction: column;
     row-gap: 20px;
+    transform: scale(.8);
+
 }
 .section-1 form div {
     margin-top: 10px;
@@ -160,7 +162,7 @@ footer {
     font-family: 'Poppins', sans-serif;
     background-color: #fff;
     border-top:1px solid black;
-    margin-top: 100px; 
+    margin-top: 20px; 
 }
 footer .footer-div p {
     margin-top: 10px;
