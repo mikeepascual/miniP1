@@ -74,7 +74,9 @@ ul {
 
 
 section {
-    height: 80vh;
+    min-height: 600px;
+    height: auto;
+    max-height: 800px;
     display:  grid;
     place-items: center;
     background-size: cover;
@@ -151,7 +153,19 @@ footer .div4 .icons i {
 footer .div4 div {
     text-align: end;
 }
-
+.location_ {
+    display: flex;
+}
+.location_ .wrapper {
+    width: 400px;
+}
+.location_ .wrapper p {
+    height: max-content;
+    margin-top: 10px;
+}
+.location_ iframe {
+    height: 400px;
+}
 @media only screen and (max-width: 1505px) {
     section {
         height: 80vh;
